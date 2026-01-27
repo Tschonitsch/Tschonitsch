@@ -1,3 +1,3 @@
-[Fasftfetch config](https://github.com/Tschonitsch/fastfetch "Heading link")
+[Fasftfetch config](https://github.com/Tschonitsch/fastfetch) [Hyprland config](https://github.com/Tschonitsch/hyprland)
 
-[Hyprland config](https://github.com/Tschonitsch/hyprland "Heading link")
+
