@@ -1,1 +1,1 @@
-link [Heading link](https://github.com/Tschonitsch/fastfetch "Heading link")
+[Fasftfetch config](https://github.com/Tschonitsch/fastfetch "Heading link")
