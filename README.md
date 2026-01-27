@@ -1,5 +1,5 @@
-[Fasftfetch config](https://github.com/Tschonitsch/fastfetch)
+- [Fasftfetch config](https://github.com/Tschonitsch/fastfetch)
 
-[Hyprland config](https://github.com/Tschonitsch/hyprland)
+- [Hyprland config](https://github.com/Tschonitsch/hyprland)
 
 
