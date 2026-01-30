@@ -1,6 +1,6 @@
 ![](https://github.com/Tschonitsch/Tschonitsch/blob/main/water.jpg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=blablabla+blebleble+blublublu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=500&height=60&lines=Bomboclat)
 
 - [Fasftfetch config](https://github.com/Tschonitsch/fastfetch)
 
