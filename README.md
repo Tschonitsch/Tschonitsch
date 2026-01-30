@@ -4,4 +4,4 @@
 
 - [Wofi config](https://github.com/Tschonitsch/wofi)
 
-
+- [zshrc config](https://github.com/Tschonitsch/zsh)
