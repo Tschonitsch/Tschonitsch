@@ -3,9 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=500&height=60&lines=Bomboclat)
 
 ## Configs
-      |
-      V
-      
+
 - [Fasftfetch](https://github.com/Tschonitsch/fastfetch)
 
 - [Hyprland](https://github.com/Tschonitsch/hyprland)
