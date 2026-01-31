@@ -6,6 +6,8 @@
 
 - [Hyprland config](https://github.com/Tschonitsch/hyprland)
 
+- [waybar](https://github.com/Tschonitsch/waybar)
+
 - [Wofi config](https://github.com/Tschonitsch/wofi)
 
 - [zshrc config](https://github.com/Tschonitsch/zsh)
