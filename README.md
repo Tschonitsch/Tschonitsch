@@ -1,23 +1,30 @@
 
-# Configs
+## 📦 Configs
 
-- [Fasftfetch](https://github.com/Tschonitsch/fastfetch)
+- **💻 Fastfetch**  
+  👉 [Fasftfetch](https://github.com/Tschonitsch/fastfetch)
 
-- [Hyprland](https://github.com/Tschonitsch/hyprland)
+- **🪟 Hyprland**  
+  👉 [Hyprland](https://github.com/Tschonitsch/hyprland)
 
-- [waybar](https://github.com/Tschonitsch/waybar)
+- **📊 Waybar**  
+  👉 [waybar](https://github.com/Tschonitsch/waybar)
 
-- [Wofi](https://github.com/Tschonitsch/wofi)
+- **⌨️ Zsh**  
+  👉 [zshrc](https://github.com/Tschonitsch/zsh)
 
-- [zshrc](https://github.com/Tschonitsch/zsh)
+#### Program launcher
+- **🗂Rofi**  
+  👉 [Rofi](https://github.com/Tschonitsch/rofi)
+
+- **🗂 Wofi**  
+  👉 [Wofi](https://github.com/Tschonitsch/wofi)
+
+
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch&"  />
-</div>
-
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch)
 
 
 
