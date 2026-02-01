@@ -18,3 +18,4 @@
 - [Wofi](https://github.com/Tschonitsch/wofi)
 
 - [zshrc](https://github.com/Tschonitsch/zsh)
+
