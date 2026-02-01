@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch&"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tschonitsch/Tschonitsch/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tschonitsch/Tschonitsch/output/pacman-contribution-graph.svg">
@@ -19,8 +23,13 @@
 
 - [zshrc](https://github.com/Tschonitsch/zsh)
 
-<br><br><br><br>
+<br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch&"  />
-</div>
+
+## Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Tschonitsch&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Tschonitsch&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Tschonitsch&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
