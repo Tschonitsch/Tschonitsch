@@ -26,9 +26,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-  
-![](https://nirzak-streak-stats.vercel.app/?user=Tschonitsch&theme=github_dark_dimmed&hide_border=false)</td></tr>
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Tschonitsch&theme=github-dark-blue&hide_border=true&border_radius=&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 
