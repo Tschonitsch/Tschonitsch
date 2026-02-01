@@ -11,7 +11,7 @@
 
 <br><br><br><br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=500&height=60&lines=Configs)
+# Configs
 
 - [Fasftfetch](https://github.com/Tschonitsch/fastfetch)
 
@@ -33,3 +33,4 @@
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Tschonitsch&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Tschonitsch&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
