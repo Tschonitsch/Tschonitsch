@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch&"  />
-</div>
-
-<br><br>
 
 # Configs
 
@@ -17,6 +12,11 @@
 - [zshrc](https://github.com/Tschonitsch/zsh)
 
 <br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch&"  />
+</div>
+
 
 
 
