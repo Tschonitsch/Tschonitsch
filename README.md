@@ -33,7 +33,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tschonitsch.Tschonitsch)
 
-https://img.shields.io/github/last-commit/Tschonitsch/Tschonitsch
+![commit](https://img.shields.io/github/last-commit/Tschonitsch/Tschonitsch)
 
 ```zsh
 npm install
