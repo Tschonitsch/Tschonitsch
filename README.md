@@ -10,7 +10,7 @@
 |🎵 Rmpc|[rmpc](https://github.com/Tschonitsch/rmpc)|
 | 🗂 Rofi | [rofi](https://github.com/Tschonitsch/rofi) |
 | 🗂 Wofi | [wofi](https://github.com/Tschonitsch/wofi) |
-
+|waybar|[waybar](https://github.com/Tschonitsch/waybar)|
 
 
 <br>
