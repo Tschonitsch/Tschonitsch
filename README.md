@@ -11,11 +11,12 @@
 | 🗂 Rofi | [rofi](https://github.com/Tschonitsch/rofi) |
 | 🗂 Wofi | [wofi](https://github.com/Tschonitsch/wofi) |
 |waybar|[waybar](https://github.com/Tschonitsch/waybar)|
-
+|fzf|[fzf](https://github.com/Tschonitsch/fzf)|
 
 <br>
 
 ![commit](https://img.shields.io/github/last-commit/Tschonitsch/Tschonitsch)
+
 
 
 
