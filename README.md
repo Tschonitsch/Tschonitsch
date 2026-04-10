@@ -2,6 +2,7 @@
 
 | Category | Config |
 |----------|--------|
+| ⌨️ Editor | [nvim](https://github.com/Tschonitsch/nvim) |
 | 🖥️ System | [Fastfetch](https://github.com/Tschonitsch/fastfetch) |
 | 🪟 WM | [Hyprland](https://github.com/Tschonitsch/hyprland) |
 | ⌨️ Shell | [zshrc](https://github.com/Tschonitsch/zsh) |
