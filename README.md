@@ -24,3 +24,4 @@
             - [fzf](https://github.com/Tschonitsch/fzf)
         - CLI
             - [Fastfetch](https://github.com/Tschonitsch/fastfetch)
+            - [matugen](https://github.com/Tschonitsch/matugen)
