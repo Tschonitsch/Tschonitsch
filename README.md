@@ -11,6 +11,7 @@
 
 ### 📦 Configs
 - [Hyprland](https://github.com/Tschonitsch/hyprland)
+- [waybar](https://github.com/Tschonitsch/waybar)
 - [rofi](https://github.com/Tschonitsch/rofi)
 - Terminal
     - [kitty](https://github.com/Tschonitsch/kitty)
