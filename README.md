@@ -26,6 +26,9 @@
 Artist Stephen C.E.S. Wilson (S.C.E.S.W.)
 ```
 
+# https://keepandroidopen.org/
+
+
 ### 📦 Configs
 - [Hyprland](https://github.com/Tschonitsch/hyprland)
 - [waybar](https://github.com/Tschonitsch/waybar)
