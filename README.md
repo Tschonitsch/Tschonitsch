@@ -25,26 +25,28 @@
                    _-|_____|_____|_____|__|------|__|_____|_____|_____|-_
 Artist Unknown
 ```
-
-
-
-
 # https://keepandroidopen.org/
 
-
 ### 📦 Configs
-- [Hyprland](https://github.com/Tschonitsch/hyprland)
-- [waybar](https://github.com/Tschonitsch/waybar)
-- Terminal
-    - [kitty](https://github.com/Tschonitsch/kitty)
 
-        - Shell
-            - [zshrc](https://github.com/Tschonitsch/zsh)
-        - TUI
-            - [superfile](https://github.com/Tschonitsch/superfile)
-            - [nvim](https://github.com/Tschonitsch/nvim)
-            - [rmpc](https://github.com/Tschonitsch/rmpc)
-            - [fzf](https://github.com/Tschonitsch/fzf)
-        - CLI
-            - [Fastfetch](https://github.com/Tschonitsch/fastfetch)
-            - [matugen](https://github.com/Tschonitsch/matugen)
+- [Hyprland](https://github.com/Tschonitsch/hyprland) - Wayland compositor
+- [waybar](https://github.com/Tschonitsch/waybar) - Status bar
+
+#### Terminal
+- [kitty](https://github.com/Tschonitsch/kitty) - Terminal emulator
+
+  - **Shell**
+    - [zsh](https://github.com/Tschonitsch/zsh) - Shell configuration
+
+  - **Multiplexer**
+    - [tmux](https://github.com/Tschonitsch/tmux) - Terminal multiplexer
+
+  - **TUI**
+    - [superfile](https://github.com/Tschonitsch/superfile) — Terminal file manager
+    - [nvim](https://github.com/Tschonitsch/nvim) - Text editor
+    - [rmpc](https://github.com/Tschonitsch/rmpc) - MPD music player
+
+  - **CLI**
+    - [fzf](https://github.com/Tschonitsch/fzf) - Fuzzy finder
+    - [Fastfetch](https://github.com/Tschonitsch/fastfetch) - System information
+    - [matugen](https://github.com/Tschonitsch/matugen) - Material You color generator
